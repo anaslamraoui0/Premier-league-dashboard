@@ -8,7 +8,7 @@ In order to test the platform, it's necessary to run the php pages on a local se
 
 In the website there's Four main pages for :
 <ul>
-  <li>Home page</li>
+  <li>Home page <br><img src='home.png'/></li>
   <li>Team page</li>
   <li>Results page</li>
   <li>Players page</li>
