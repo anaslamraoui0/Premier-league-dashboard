@@ -9,7 +9,7 @@ In order to test the platform, it's necessary to run the php pages on a local se
 In the website there's Four main pages for :
 <ul>
   <li>Home page <br><img src='home.png'/></li>
-  <li>Team page</li>
-  <li>Results page</li>
-  <li>Players page</li>
+  <li>Team page <br><img src='team.png'/></li>
+  <li>Results page <br><img src='results.png'/></li>
+  <li>Players page <br><img src='player.png'/></li>
   </ul>
